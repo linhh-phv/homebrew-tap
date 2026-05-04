@@ -6,7 +6,8 @@ class Lps < Formula
   license "MIT"
   version "0.1.0"
 
-  depends_on "lsof" => :recommended
+  # lsof, ps, awk, grep, sed are all standard on macOS and Linux —
+  # no Homebrew dependencies needed.
 
   def install
     bin.install "lps"
