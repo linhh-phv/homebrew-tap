@@ -19,7 +19,7 @@ brew install linhh-phv/tap/<tool>
 
 | Tool | Description |
 | --- | --- |
-| [`lps`](https://github.com/linhh-phv/lps) | List & manage processes by listening port, grouped by project |
+| [`lps`](https://github.com/linhh-phv/hog) | List & manage processes by listening port, grouped by project |
 
 ## Update
 

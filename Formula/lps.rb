@@ -1,8 +1,8 @@
 class Lps < Formula
   desc "List & manage processes by listening port, grouped by project"
-  homepage "https://github.com/linhh-phv/lps"
-  url "https://github.com/linhh-phv/lps/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "e6fe7a6cf8d7c15b1b4f47ae6a3419f0fd0808e4424c532b51c4da136ce0a396"
+  homepage "https://github.com/linhh-phv/hog"
+  url "https://github.com/linhh-phv/hog/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "8cf64f1c06988ca27954a9b090ad0a3e2da047f1312f2248543aac6a182a7b24"
   license "MIT"
   version "0.1.0"
 
